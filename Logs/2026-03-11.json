@@ -1,0 +1,2 @@
+{"timestamp": "2026-03-11T09:47:39.100191", "action_type": "email_send", "actor": "claude_code", "target": "test@example.com", "parameters": {"subject": "Test", "body_preview": "Hello"}, "approval_status": "approved", "approved_by": "human", "result": "success", "error_message": null}
+{"timestamp": "2026-03-11T09:49:06.815789", "action_type": "email_send", "actor": "claude_code", "target": "test@example.com", "parameters": {"subject": "Test", "body_preview": "Hello"}, "approval_status": "approved", "approved_by": "human", "result": "success", "error_message": null}

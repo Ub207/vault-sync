@@ -1,0 +1,106 @@
+[
+  {
+    "timestamp": "2026-03-22T10:55:50.167856+00:00",
+    "action_type": "platinum_demo_email",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_email_DEMO_20260322_105544.md",
+    "parameters": {
+      "demo": true,
+      "channel": "email"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T10:55:50.167877+00:00",
+    "action_type": "platinum_demo_odoo",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_odoo_DEMO_20260322_105544.md",
+    "parameters": {
+      "demo": true,
+      "channel": "odoo"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:19:40.161417+00:00",
+    "action_type": "platinum_demo_email",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_email_DEMO_20260322_111934.md",
+    "parameters": {
+      "demo": true,
+      "channel": "email"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:19:40.161470+00:00",
+    "action_type": "platinum_demo_odoo",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_odoo_DEMO_20260322_111934.md",
+    "parameters": {
+      "demo": true,
+      "channel": "odoo"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:35:48.092463+00:00",
+    "action_type": "platinum_demo_email",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_email_DEMO_20260322_113542.md",
+    "parameters": {
+      "demo": true,
+      "channel": "email"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:35:48.092483+00:00",
+    "action_type": "platinum_demo_odoo",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_odoo_DEMO_20260322_113542.md",
+    "parameters": {
+      "demo": true,
+      "channel": "odoo"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:47:01.257425+00:00",
+    "action_type": "platinum_demo_email",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_email_DEMO_20260322_114655.md",
+    "parameters": {
+      "demo": true,
+      "channel": "email"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  },
+  {
+    "timestamp": "2026-03-22T11:47:01.257443+00:00",
+    "action_type": "platinum_demo_odoo",
+    "actor": "local_executor",
+    "target": "CLOUD_draft_odoo_DEMO_20260322_114655.md",
+    "parameters": {
+      "demo": true,
+      "channel": "odoo"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  }
+]

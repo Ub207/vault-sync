@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "linkedin"
+  ],
+  "enableAllProjectMcpServers": true
+}
