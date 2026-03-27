@@ -23,5 +23,5 @@ needs_secondary_approval: false
 ---
 
 ## Approval Checklist
-- [ ] Review invoice details
+
 - [ ] Move to /Approved to create in Odoo (DRAFT mode)
