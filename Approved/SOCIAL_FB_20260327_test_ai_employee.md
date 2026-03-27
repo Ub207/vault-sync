@@ -29,5 +29,5 @@ Solo founders: the future is building systems, not doing everything yourself.
 ---
 
 ## Approval Checklist
-- [ ] Review post
+
 - [ ] Move to /Approved to post

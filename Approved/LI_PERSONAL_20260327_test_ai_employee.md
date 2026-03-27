@@ -38,5 +38,5 @@ It's building smarter systems.
 ---
 
 ## Approval Checklist
-- [ ] Review post content
+
 - [ ] Move to /Approved to post

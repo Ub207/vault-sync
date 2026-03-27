@@ -36,6 +36,5 @@ Ubaid ur Rahman
 ---
 
 ## Approval Checklist
-- [ ] Review draft
-- [ ] Edit if needed
+
 - [ ] Move to /Approved to send

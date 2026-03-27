@@ -27,5 +27,5 @@ Solo founders: stop doing everything manually.
 ---
 
 ## Approval Checklist
-- [ ] Review tweet
+
 - [ ] Move to /Approved to post
