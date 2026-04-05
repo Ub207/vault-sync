@@ -19,6 +19,7 @@ wa_session/
 whatsapp_session/
 whatsapp_session_old/
 linkedin_session/
+linkedin_company_session/
 
 # ── Build / Cache ──────────────────────────────────────────────
 __pycache__/
@@ -44,3 +45,8 @@ silver_tier/
 qwen.md
 skills-lock.json
 .claude/
+.gmail_seen_ids.json
+
+# ── Nested repos (not submodules) ──────────────────────────────
+personal-ai-employee/
+repos/

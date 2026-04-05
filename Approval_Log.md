@@ -506,3 +506,5 @@ Call log:
 | 2026-03-18 12:21:21 | EXECUTE | linkedin_post | LI_PERSONAL_20260311_0734_my_business_goals_reflect_what.md | error | LinkedIn post timed out after 120s. |
 | 2026-03-18 12:23:22 | EXECUTE | linkedin_post | LI_PERSONAL_20260311_0745_did_you_know_most_founders_was.md | error | LinkedIn post timed out after 120s. |
 | 2026-03-25 15:58 | LI_PERSONAL_20260325_0840_one_founder_saved_12_hours.md | linkedin_personal_posted | personal_profile | composer_opened_1036chars |
+| 2026-03-29 01:16 | LI_PERSONAL_20260329_project_launch.md | linkedin_personal_posted | personal_profile | composer_opened_1549chars |
+| 2026-03-29 02:26 | LI_COMPANY_20260329_project_launch.md | linkedin_company_posted | company_page | composer_opened_1206chars |

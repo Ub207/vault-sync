@@ -1,4 +1,4 @@
-# Accounting — Current Month (March 2026)
+# Accounting — Current Month (April 2026)
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Date | Client | Description | Amount (PKR) | Invoice # | Status |
 |------|--------|-------------|--------------|-----------|--------|
-| 2026-03-01 | — | — | — | — | — |
+| — | — | — | — | — | — |
 
 **MTD Total:** PKR 0
 **Monthly Target:** PKR 500,000
@@ -17,9 +17,9 @@
 
 | Date | Vendor | Category | Amount (PKR) | Notes |
 |------|--------|----------|--------------|-------|
-| — | — | — | — | — |
+| 2026-04-01 | Anthropic | Claude Pro subscription | 16,100 | AI model API + Claude Code |
 
-**MTD Expenses:** PKR 0
+**MTD Expenses:** PKR 16,100
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Service | Cost (PKR) | Last Used | Status |
 |---------|------------|-----------|--------|
-| Claude Pro | ~ | Active | Keep |
+| Claude Pro | 16,100 | 2026-04-05 | Keep |
 
 ---
 
@@ -36,8 +36,8 @@
 | | PKR |
 |---|---|
 | Revenue | 0 |
-| Expenses | 0 |
-| **Net** | **0** |
+| Expenses | 16,100 |
+| **Net** | **-16,100** |
 
 ---
 
@@ -48,4 +48,16 @@
 | — | — | — | — |
 
 ---
-*Last updated: 2026-03-12*
+
+## March 2026 Closing Summary
+
+| | PKR |
+|---|---|
+| Revenue | 92,745 |
+| Expenses | 16,100 |
+| **Net** | **76,645** |
+
+*Source: 2026-03-25 CEO Briefing*
+
+---
+*Last updated: 2026-04-05*
