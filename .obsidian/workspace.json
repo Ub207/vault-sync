@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "bfabf7ce38bd4e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "276b9a7d58e52a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d8c9f0515741d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f61128e63bd1e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e7f24cf094a5c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "050e798b3a71e1d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcd1205fd7a1b1e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d057a238ca85a5a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71db707a18a3f924",
+    "type": "split",
+    "children": [
+      {
+        "id": "a688ec67f557bcff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc98638434180f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a2f137e6ad002a64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7d30869d112c48e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "44fb4d01dffcca7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0dfb3b9665fa9057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "96d8c9f0515741d6",
+  "lastOpenFiles": [
+    "Pending_Approval/SOCIAL_FB_20260317_1500_invoice-followup-v2.md",
+    "Pending_Approval/SOCIAL_20260314_1002_fb_ig_ai_automation_tip.md",
+    "Pending_Approval/LI_20260311_0009_did_you_know_solo_founders_was.md",
+    "Pending_Approval/SOCIAL_FB_20260317_1200_ai-agents-automation.md",
+    "Pending_Approval/WA_REPLY_WA_1772861775_4.md",
+    "Pending_Approval/WA_REPLY_WA_1772861775_3.md",
+    "Pending_Approval/WA_REPLY_WA_1772861774_2.md",
+    "Pending_Approval/WA_REPLY_WA_1772877324_3.md",
+    "Pending_Approval/WA_REPLY_WA_1772876894_4.md",
+    "Pending_Approval/WA_REPLY_WA_1772876893_3.md",
+    "Pending_Approval/WA_REPLY_WA_1772876893_2.md",
+    "Pending_Approval/SOCIAL_FB_20260317_1000_ai-automation.md",
+    "Pending_Approval/WA_REPLY_WA_1772861083_1.md",
+    "Pending_Approval/WA_20260314_1003_helping_group_analysis.md",
+    "Pending_Approval/TW_20260315_1200_ai-news.md",
+    "Pending_Approval/LI_PERSONAL_20260314_1000_ai_agent_ecosystem_founders.md",
+    "Pending_Approval/LI_CO_20260314_1001_ai_employee_for_founders.md",
+    "Untitled 1.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled.canvas",
+    "Ai-employee-vault.md",
+    "Untitled.md",
+    "2026-02-28.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled"
+  ]
+}

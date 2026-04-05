@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461"
+    }
+  }
+}
