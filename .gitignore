@@ -1,0 +1,52 @@
+# ── Secrets & Credentials (NEVER sync) ──────────────────────────
+.env
+*.env
+*.env.*
+token.json
+credentials.json
+client_secret*.json
+*_secret*
+*_password*
+banking_creds*
+payment_token*
+*.pem
+*.key
+*.p12
+gmail_auth.py
+
+# ── Sessions (NEVER sync) ──────────────────────────────────────
+wa_session/
+whatsapp_session/
+whatsapp_session_old/
+linkedin_session/
+linkedin_company_session/
+
+# ── Build / Cache ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pid
+.venv/
+venv/
+node_modules/
+*.log
+*.sqlite
+*.db
+
+# ── Obsidian internals ─────────────────────────────────────────
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# ── Misc ───────────────────────────────────────────────────────
+Untitled*
+*.canvas
+silver_tier/
+qwen.md
+skills-lock.json
+.claude/
+.gmail_seen_ids.json
+
+# ── Nested repos (not submodules) ──────────────────────────────
+personal-ai-employee/
+repos/
