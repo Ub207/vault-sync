@@ -53,7 +53,7 @@
 ---
 
 ## Last CEO Briefing
-2026-04-05 — Revenue PKR 92,745 net MTD. 0 tasks this week. 3 posts pending execution.
+2026-04-09 — Revenue PKR 0 MTD April (0% of PKR 500,000 target). 6 tasks done this week. 8 posts pending (3 blocked by credentials, 5 in Pending_Approval).
 
 ## Approved Posts — Blocked (Action Required)
 | File | Channel | Blocker |

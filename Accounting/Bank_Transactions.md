@@ -17,6 +17,20 @@
 
 ---
 
+## April 2026
+
+| Date       | Description                    | Amount (PKR) | Type   | Category        | Notes                  |
+|------------|--------------------------------|--------------|--------|-----------------|------------------------|
+| 2026-04-01 | Claude Pro Subscription        | 5500         | debit  | AI Tools        | Monthly AI tool        |
+| 2026-04-01 | Internet Bill                  | 3500         | debit  | Utilities       | Home office internet   |
+| —          | —                              | —            | —      | —               | —                      |
+
+**MTD Debit:** PKR 9,000
+**MTD Credit:** PKR 0
+**Net:** PKR -9,000
+
+---
+
 ## March 2026
 
 | Date       | Description                    | Amount (PKR) | Type   | Category        | Notes                  |

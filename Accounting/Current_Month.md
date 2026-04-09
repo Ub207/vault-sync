@@ -17,9 +17,10 @@
 
 | Date | Vendor | Category | Amount (PKR) | Notes |
 |------|--------|----------|--------------|-------|
-| 2026-04-01 | Anthropic | Claude Pro subscription | 16,100 | AI model API + Claude Code |
+| 2026-04-01 | Anthropic | Claude Pro subscription | 5,500 | AI model API + Claude Code |
+| 2026-04-01 | ISP | Internet Bill | 3,500 | Home office internet |
 
-**MTD Expenses:** PKR 16,100
+**MTD Expenses:** PKR 9,000
 
 ---
 
@@ -27,7 +28,11 @@
 
 | Service | Cost (PKR) | Last Used | Status |
 |---------|------------|-----------|--------|
-| Claude Pro | 16,100 | 2026-04-05 | Keep |
+| Claude Pro | 5,500 | 2026-04-09 | Keep |
+| Internet | 3,500 | 2026-04-01 | Keep |
+| Canva Pro | 2,800 | — | Review (unused) |
+| GitHub Copilot | 2,200 | 2026-04-09 | Keep |
+| Zoom Pro | 2,100 | — | Review (unused) |
 
 ---
 
@@ -36,8 +41,8 @@
 | | PKR |
 |---|---|
 | Revenue | 0 |
-| Expenses | 16,100 |
-| **Net** | **-16,100** |
+| Expenses | 9,000 |
+| **Net** | **-9,000** |
 
 ---
 
